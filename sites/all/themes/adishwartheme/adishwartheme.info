@@ -1,0 +1,23 @@
+;----------// Theme Information
+
+  name        = Adishwar Theme
+  description = Custom theme developed for this site
+  core        = 7.x
+  base theme  = adaptivetheme
+  release     = 7.x-3.x
+  engine      = phptemplate
+
+;------------// Stylesheets
+  stylesheets[screen][] = css/custom_style.css
+
+;----------// Regions
+
+  regions[slider]            = Slider
+  regions[sidebar_first]     = Sidebar first
+  regions[sidebar_second]    = Sidebar second
+  regions[content]           = Main Content
+  regions[highlighted]       = Highlighted
+  regions[header]            = Header
+  regions[content_bottom]    = Content Bottom
+  regions[footer]            = Footer
+  regions[help]              = Help

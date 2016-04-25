@@ -1,0 +1,393 @@
+#block-superfish-1 ul li {
+  float: left;
+  background: none;
+}
+#block-superfish-1 ul {
+    margin-bottom: 0px;
+    margin-top: 2%;
+}
+#block-superfish-1 ul li a {
+  border: none;
+  text-decoration: none;
+  border-right: 1px solid #e2e2e2;
+  padding: 0px 16px 0px 16px;
+  color: #2B2B2B;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+#block-superfish-1 ul li a:hover {
+ background: none;
+ color: #DA5A3E;
+}
+#block-superfish-1 ul li a.active {
+  color: #DA5A3E;
+} 
+#block-superfish-1 ul li ul {
+  background: #fff;
+  border: 1px solid #e7e7e7;
+}
+#block-superfish-1 ul li.last a,
+#block-superfish-1 ul li ul a {
+  border-right: none;
+}
+#block-superfish-1 ul li ul a {
+  padding-bottom: 12px;
+}
+#block-superfish-1 {
+  float: right;
+}
+#block-superfish-1 ul li a .sf-sub-indicator {
+background: none;
+}
+#block-superfish-1 ul li ul {
+  margin-top: -10px;
+  border-radius: 0px;
+  border-top: none;
+}
+#block-superfish-1 ul li ul li {
+  border-bottom: 1px solid #e7e7e7;
+  margin-left: 4px;
+  padding-top: 12px;
+}
+#block-superfish-1 ul li ul li.last,
+#block-superfish-1 ul li ul li.firstandlast {
+  border: none;
+}
+#block-block-5 {
+  float: left;
+  margin-left: 93%;
+}
+
+.front .region-sidebar-first {
+  float: left;
+  margin-right: 2%;
+  width: 237px;
+  margin-left: 0%;
+}
+#content-column .content-inner {
+  margin: 0%;
+}
+.front #content-column {
+  width: 630px;
+  float: left;
+  text-align: justify;
+}
+
+body {
+  width: 100%;
+  margin: 0 auto;
+}
+
+#columns {
+  padding-top: 2%;
+}
+#header .region-header {
+  float: left;
+  width: 82%;
+}
+
+h1, h2, h3, h4 {
+  color: #DA5A3E;
+  font-family: sans-serif;
+  font-size: 22px;
+}
+p, ol, ol li font, ol li span, ul li, .page-node .node-content .field-item {
+  color: #8E9090 !important;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+a {
+  color: #000;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 12px;
+}
+#branding {
+  width: 18%;
+  float: left;
+  margin-left: 
+}
+#branding #site-name {
+  margin: 0px;
+}
+
+#footer {
+  background-color: #D84A2C;
+  margin-top: 2%;
+}
+
+#footer a {
+  color: #fff;
+}
+
+#footer .region-inner {
+  padding: 3px 0px 0px 0px;
+  /*font-family: arial;*/
+  font-family: sans-serif;
+  font-size: 12px;
+  color: #fff;
+}
+
+ul li.leaf {
+  list-style: none;
+}
+
+#block-menu-menu-footer {
+  float: left;
+    border-right: 2px solid white;
+    width: 15%;
+}
+
+#block-menu-menu-footer2 {
+  width: 24%;
+  float: left;
+}
+#footer #block-block-1 {
+  width: 73%;
+  float: left;
+  padding-left: 1%;
+}
+.contact {
+  font-size: 10px;
+}
+#contact .contact-phone {
+  float: left;
+  padding-right: 2%;
+}
+#footer #block-block-1 .contact-label,
+#footer #block-block-2 .download-label {
+  font-size: 16px;
+  padding-bottom: 8px;
+}
+#footer #block-block-2 .download-label {
+  padding: 3px 0px 0px 40px;
+  font-size: 12px;
+}
+#footer #block-block-2 {
+  background: url('../images/brochure.png') no-repeat 0px;
+  margin-left: 10%;
+  float: left;
+}
+
+#footer #block-block-1 .contact-body {
+  line-height: 20px;
+}
+
+.front .sidebar {
+    border: 2px solid #e7e7e7;
+    border-radius: 5px;
+}
+
+.front .region-sidebar-first .region-inner {
+  padding: 0px 39px 0px 20px;
+}
+.slider-block .views-field-title,
+#views_slideshow_cycle_main_homepage_slider_block-block_1 .views_slideshow_slide .views-field-field-related-pages {
+  position: relative;
+  bottom: 40px;
+  height: 53px;
+}
+.slider-block .views-field-title a,
+#views_slideshow_cycle_main_homepage_slider_block-block_1 .views_slideshow_slide .views-field-field-related-pages a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  padding-left: 14px;
+  font-size: 16px;
+}
+#block-views-homepage-slider-block-block-1 {
+  max-height: 320px;
+}
+#block-views-project-listing-block .views-field-field-category {
+  position: relative;
+  bottom: 30px;
+}
+#views_slideshow_cycle_teaser_section_homepage_slider_block-block {
+  max-height: 320px;
+}
+#block-views-project-listing-block .views-field-field-category {
+  background-color: #fff;
+  opacity: 0.8;
+  position: relative;
+  bottom: 22px;
+}
+#block-views-project-listing-block .views-field-field-category a {
+  font-size: 14px;
+}
+/*#block-views-project-listing-block .views-field-field-thumbnail-image img {
+  opacity: 0.6;
+}*/
+#block-views-project-listing-block .views-field-field-thumbnail-image img:hover {
+  opacity: inherit;
+}
+#block-views-project-listing-block .view-project-listing .views-row {
+  text-align: center;
+}
+.front .region-sidebar-second {
+    width: 20%;
+    float: right;
+    border: none;
+}
+.front #block-webform-client-block-16,
+#block-views-testimonials-block-1 {
+  border: 2px solid #e7e7e7;
+  border-radius: 5px;
+}
+
+#block-views-testimonials-block-1 .views-field-title a {
+  font-size: 16px;
+}
+
+#block-views-testimonials-block-1 {
+  margin: 12px 0px 0px 0px;
+}
+
+#block-webform-client-block-16 .block-inner,
+#block-views-testimonials-block-1 .block-inner {
+  padding: 0px 14px 0px 14px;
+}
+#block-views-testimonials-block-1 .views-row-first {
+  border-bottom: 2px solid #e7e7e7;
+  margin-bottom: 12px;
+}
+#block-views-testimonials-block-1 .more-link {
+  text-align: center;
+  background-color: #D84A2C;
+  border: 2px solid #D84A2C;
+  border-radius: 3px;
+  padding: 7px;
+  text-transform: uppercase;
+  width: 24%;
+  margin: 0px 0px 12px 63px;
+}
+#block-views-testimonials-block-1 .more-link a {
+  color: #fff;
+  font-size: 12px;
+}
+.webform-client-form .form-text {
+  width: 190px;
+  height: 25px;
+  padding: 0px 0px 0px 5px;
+  height: 32px;
+  width: 150px;
+  font-size: 13px;
+}
+#block-webform-client-block-16 .webform-client-form .webform-component--name input {
+  background: url("../images/user_icon.jpg") no-repeat 4px 2px;
+}
+
+.webform-client-form .webform-component--mobile-number input {
+  background: url("../images/phone_icon.jpg") no-repeat 4px 2px;
+
+}
+.webform-client-form input,
+#block-webform-client-block-16 .webform-client-form .webform-component--name input {
+  color: #ACACAC;
+  border: 2px solid #e7e7e7;
+  border-radius: 3px;
+}
+#block-webform-client-block-16 .webform-client-form .webform-component-textfield input {
+  padding-left: 40px;
+}
+.webform-client-form .webform-component {
+  margin: 20px 0px 0px 0px;
+}
+
+.webform-client-form .form-actions {
+  text-align: center;
+}
+
+.webform-client-form .webform-submit {
+  text-align: center;
+  margin: 0px 60px 0px 60px;
+  background-color: #D84A2C;
+  border: 2px solid #D84A2C;
+  border-radius: 3px;
+  color: #fff;
+  padding: 10px;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size: 12px;
+}
+.webform-client-form  .webform-component--description p {
+  font-size: 12px;
+  padding-left: 6px;
+  color: #ACACAC;
+  margin: 0px;
+  line-height: 18px;
+  padding:  3px 0px 0px 6px;
+}
+
+.view-clients .jcarousel-prev,
+.view-clients .jcarousel-next {
+  display: none;
+}
+.view-clients .jcarousel-skin-default .jcarousel-container-horizontal {
+  padding: 0px;
+  margin: 0px;
+  width: auto;
+}
+.view-clients .jcarousel-skin-default .jcarousel-container-horizontal .jcarousel-clip-horizontal {
+  width: auto;
+}
+.view-clients .jcarousel-skin-default .jcarousel-container-horizontal ul li {
+  width: 190px !important;
+  border: 1px solid #DD7450;
+  margin: 0px 11px 0px 6px;
+}
+#block-views-project-type-block .views-field-name a {
+    color: #bf5f00;
+    font-size: 16px;
+}
+.view-taxonomy-term .views-field-title a {
+  font-size: 14px;
+}
+
+.page-node-26 .region-sidebar-second {
+    float: right;
+    width: 20%;
+}
+.page-node-26 #block-block-3 {
+  display: inline-block;
+  width: 35%;
+}
+.page-node-26 #block-block-3 .office-add,
+.page-node-26 #block-block-3 .plant-add {
+  color: #DA5A3E;
+  font-family: sans-serif;
+}
+.page-node-26 #block-block-3 .office-add-text,
+.page-node-26 #block-block-3 .plant-add-text {
+  color: #8E9090;
+  font-family: sans-serif;
+  font-size: 14px;
+  padding: 12px 0px 12px 0px;
+}
+#block-webform-client-block-36 {
+  float: left;
+  margin-right: 5%;
+}
+#block-webform-client-block-36 form {
+  width: 80%;
+  padding-top: 30px;
+}
+#block-webform-client-block-36 form fieldset {
+  border: 2px solid #e7e7e7;
+  border-radius: 5px;
+}
+#block-webform-client-block-36 form .fieldset-wrapper input,
+#block-webform-client-block-36 form .fieldset-wrapper textarea {
+  color: #ACACAC;
+  border: 2px solid #e7e7e7;
+  border-radius: 3px;
+}
+#block-webform-client-block-36 form .fieldset-wrapper input {
+  width: 600px;
+}
+#block-webform-client-block-36 form .fieldset-wrapper label {
+  color: #8E9090;
+  font-weight: normal;
+}
+.page-node .node-content .field-items figure {
+  margin: 10px 0px 10px 0px;
+}
