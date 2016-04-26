@@ -217,10 +217,10 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'Kaushashah_dev',
-      'username' => 'kaushashah_dev',
-      'password' => 'kaushashah_dev',
-      'host' => '182.50.133.77',
+      'database' => 'adishwar',
+      'username' => 'root',
+      'password' => 'root',
+      'host' => 'localhost',
       'port' => '3306',
       'driver' => 'mysql',
       'prefix' => '',
@@ -579,3 +579,4 @@ $conf['404_fast_html'] = '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
  * Remove the leading hash signs to disable.
  */
 # $conf['allow_authorize_operations'] = FALSE;
+$conf['clean_url'] = 1;
